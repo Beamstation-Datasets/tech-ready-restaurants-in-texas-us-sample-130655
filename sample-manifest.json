@@ -1,12 +1,12 @@
 {
-  "export_job_id": "07d40c40-3ff4-4390-adf6-8bc0dd18436d",
+  "export_job_id": "0f67538f-92f2-4395-87cb-50d94ba672b0",
   "id_short": 130655,
-  "published_at": "2026-04-10T19:11:50Z",
+  "published_at": "2026-04-19T19:49:16Z",
   "repo_name": "tech-ready-restaurants-in-texas-us-sample-130655",
   "sample_asset_name": "beamstation_130655_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/130655/beamstation_130655_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "7d7a0c47c257d0bf61264b5a83662e04ebcafa7113df2f25709b0ff27f3b616d",
-  "sample_size_bytes": 140561,
-  "total_records": 333
+  "sample_records": 14,
+  "sample_sha256": "e610d26762f5e9be6b71834e9e1b878cb843f52f50b9413ba68e9e957f53f3fc",
+  "sample_size_bytes": 68915,
+  "total_records": 148
 }
