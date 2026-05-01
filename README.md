@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Texas, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 120 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `130655` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 266 records |
-| Free sample size | 26 records (9.77%) |
-| Last export | 2026-04-23T18:44:43.589373+00:00 |
+| Full dataset size | 1,201 records |
+| Free sample size | 120 records (9.99%) |
+| Last export | 2026-05-01T10:38:55.145229+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-texas-us-sample-130655/releases/download/sample-latest/beamstation_130655_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
